@@ -1,0 +1,22 @@
+{
+  "cart": [
+    {
+      "id": 1,
+      "name": "Product 1",
+      "price": 100,
+      "quantity": 1
+    },
+    {
+      "id": 2,
+      "name": "Product 2",
+      "price": 200,
+      "quantity": 2
+    },
+    {
+      "id": 0.6999433562477675,
+      "name": "Product random",
+      "quantity": 100,
+      "price": 200
+    }
+  ]
+}
